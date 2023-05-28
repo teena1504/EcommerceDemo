@@ -1,0 +1,16 @@
+.banner{
+background-color: floralwhite;
+back-ground image:"{% static 'todo.jpg' %}";
+width: 100%;
+height: 200px;
+margin-botton:50px;
+}
+
+.banner-text
+{
+color:Red;
+top:100px;
+left:700px;
+position: absolute;
+transform: transform;
+}
